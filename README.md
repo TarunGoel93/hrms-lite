@@ -17,7 +17,6 @@
 
 <p align="center">
   <a href="#-features">Features</a> •
-  <a href="#-demo">Demo</a> •
   <a href="#-quick-start">Quick Start</a> •
   <a href="#-tech-stack">Tech Stack</a> •
   <a href="#-api-documentation">API</a> •
@@ -62,19 +61,7 @@ Built with a carefully crafted design system featuring:
 - 📱 **Fully responsive** - Perfect on desktop, tablet, and mobile
 - ♿ **Accessible** - WCAG compliant with thoughtful UX
 
----
 
-## 🖼️ Demo
-
-<div align="center">
-
-### Employee Management
-![Employee Management Interface](https://via.placeholder.com/800x450/1B4332/FFFFFF?text=Employee+Management+Dashboard)
-
-### Attendance Tracking
-![Attendance Tracking Interface](https://via.placeholder.com/800x450/2D6A4F/FFFFFF?text=Attendance+Management+System)
-
-</div>
 
 ---
 
@@ -318,11 +305,7 @@ We love contributions! Here's how you can help make HRMS Lite even better:
 - Test your changes thoroughly
 - Update documentation as needed
 
----
 
-## 📝 License
-
-This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) file for details.
 
 ---
 
